@@ -3,7 +3,7 @@
 This repository is home to the OneDrive developer documentation.
 This includes documentation for a portion of the Microsoft Graph that accesses OneDrive and SharePoint content, and documentation for Office 365 file handlers and file pickers.
 
-For easier navigation of content, we recommend consuming this content from the [OneDrive Developer Portal](https://developers.microsoft.com/onedrive) or from [https://docs.microsoft.com/onedrive/developer](https://docs.microsoft.com/onedrive/developer).
+For easier navigation of content, we recommend consuming this content from the [OneDrive Developer Portal](https://developers.microsoft.com/onedrive) or from [https://learn.microsoft.com/onedrive/developer](https://learn.microsoft.com/onedrive/developer).
 
 ## Contribute to OneDrive developer documentation
 
@@ -18,7 +18,7 @@ Or, you are welcome to fork the repository and submit updates from your fork.
 
 * **Employees**: If you are a technical writer, program manager, or developer from the product team and it's your job to contribute to or author technical articles, you should use the repository in our Visual Studio instance.
 If you are making substantial changes to an existing article, adding or changing images, or contributing a new article, you need to fork this repository, install Git, a markdown editor, and learn some git commands.
-See [the internal contributor's guide](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master) for more information.
+See [the internal contributor's guide](https://review.learn.microsoft.com/en-us/help/contribute/?branch=master) for more information.
 
 ## About your contributions to OneDrive content
 
@@ -34,7 +34,7 @@ We need you to complete the online form before we can accept your pull request.
 ## Tools and setup
 
 Community contributors can use the GitHub UI or fork the repo to contribute.
-Employees should visit [the internal contributor's guide](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master) for more information about how to contribute to the technical documentation set.
+Employees should visit [the internal contributor's guide](https://review.learn.microsoft.com/en-us/help/contribute/?branch=master) for more information about how to contribute to the technical documentation set.
 
 ## Repository organization
 
